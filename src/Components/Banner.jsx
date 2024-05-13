@@ -16,16 +16,16 @@ const Banner = () => {
       <div className="h-full lg:py-56 flex flex-col justify-center lg:items-start items-center text-white">
         <h1
           data-aos="fade-right"
-          className="text-2xl font-semibold mb-8 leading-normal font-serif "
+          className="text-xl font-semibold mb-8 leading-normal font-serif "
         >
           Hello, it's Me <br />
-          <span className="text-5xl uppercase  text-fuchsia-500 t_glow mt-2 tracking-widest cursor-pointer">
+          <span className="text-3xl uppercase  text-fuchsia-500 t_glow mt-2 tracking-widest cursor-pointer">
             Amit Dhadange{" "}
           </span>
           <br />
-          <h4 className="text-2xl font-semibold mb-8 leading-normal font-serif  ">
+          <h4 className="text-xl font-semibold mb-8 leading-normal font-serif  ">
             And I'm a 
-            <span className="text-fuchsia-500 tracking-widest text-3xl uppercase">
+            <span className="text-fuchsia-500 tracking-widest text-2xl uppercase">
                MERN STACK DEVELOPER
             </span>
           </h4>
