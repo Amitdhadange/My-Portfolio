@@ -18,7 +18,7 @@ const Projects = () => {
         data-aos="fade-right"
         className="text-[52px] font-semibold mb-20 leading-normal uppercase text-fuchsia-800"
       >
-        Project
+        Projects
       </h1>
       <div className="grid lg:grid-cols-5 md:grid-cols-2 grid-cols-1 justify-around gap-10">
         <a
