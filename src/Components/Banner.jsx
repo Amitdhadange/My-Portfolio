@@ -18,7 +18,7 @@ const Banner = () => {
           data-aos="fade-right"
           className="text-xl font-semibold mt-12  leading-normal font-serif "
         >
-          Hello, This is me <br />
+          Hello, This is<br />
           <span className="text-4xl uppercase text-fuchsia-500 t_glow tracking-widest cursor-pointer">
             Amit Dhadange{" "}
           </span>
@@ -33,7 +33,7 @@ const Banner = () => {
         <p data-aos="fade-left" className="text-xl">
          I'm a beginner MERN Stack Developer building my portfolio
           website. Excited to display projects and skills in MongoDB,
-          Express.js, React.js, and Node.js. Let's connect and grow together !
+          Express.js, React.js, and Node.js.Let's connect and grow together !
         </p>
         <div className="flex mt-8 gap-2 ">
           <div className="flex justify-center items-center">
