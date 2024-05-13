@@ -82,7 +82,7 @@ const Banner = () => {
         src={file}
         // width={400}
         // height={300}
-        className="rounded-full border-2 w-full h-[90vh] p-1 border-fuchsia-500 img_glow"
+        className="rounded-full border-2 w-full h-[80vh] p-1 border-fuchsia-500 img_glow"
         alt="Profile"
       />
     </div>
