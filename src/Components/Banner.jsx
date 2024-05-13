@@ -18,7 +18,7 @@ const Banner = () => {
           data-aos="fade-right"
           className="text-xl font-semibold mt-12  leading-normal font-serif "
         >
-          Hello, It's Me <br />
+          Hello, This is me <br />
           <span className="text-4xl uppercase text-fuchsia-500 t_glow tracking-widest cursor-pointer">
             Amit Dhadange{" "}
           </span>
