@@ -12,7 +12,7 @@ const Projects = () => {
   return (
     <div
       id="Projects"
-      className="p-20 flex flex-col items-center justify-center"
+      className="p-20 flex w-full flex-col items-center justify-center"
     >
       <h1
         data-aos="fade-right"

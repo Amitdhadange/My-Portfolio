@@ -41,13 +41,13 @@ const Nav = () => {
   );
   return (
     <nav>
-      <div className="h-16 flex justify-between z-10 text-white lg:py-5 px-20 py-4 border-b border-slate-800 ">
+      <div className="h-16 flex justify-between z-50 text-white lg:py-5 px-20 py-4 border-b border-slate-800 ">
         <div className="flex-1 items-center flex">
           <span className="text-3xl font-bold">Portfolio</span>
         </div>
         <div className="lg:flex md:flex lg:flex-1 items-center justify-end font-normal hidden">
           <div className="flex-10">
-            <ul className="flex gap-16 text-xl">
+            <ul className="flex gap-16 mr-16 text-sm">
               <Link spy={true} smooth={true} to="Home">
                 <li className="hover:text-fuchsia-600 transition border-b-2 border-slate-900 hover:border-fuchsia-600 cursor-pointer">
                   Home

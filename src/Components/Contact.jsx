@@ -1,6 +1,7 @@
 import Aos from "aos";
 import React, { useEffect, useRef } from "react";
 import emailjs from "@emailjs/browser";
+import { toast } from 'react-toastify';
 
 const Contect = () => {
   const form = useRef();
@@ -14,7 +15,13 @@ const Contect = () => {
       })
       .then(
         () => {
+          toast.success('Mail Successfull Send ', {
+            position: "top-right",
+            autoClose: 4000,
+            theme: "dark",
+            });
           console.log("SUCCESS!");
+          
         },
         (error) => {
           console.log("FAILED...", error.text);
@@ -27,7 +34,7 @@ const Contect = () => {
   return (
     <div
       id="Contact"
-      className="p-4 lg:p-20 flex flex-col items-center justify-center "
+      className="p-4 lg:p-20 w-full flex flex-col items-center justify-center "
     >
       <h1
         data-aos="fade-right"

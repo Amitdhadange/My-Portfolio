@@ -19,7 +19,7 @@ const App = () => {
   return (
     <>
       {loading ? (
-        <div className="bg-black h-[100vh] flex justify-center items-center">
+        <div className="bg-black h-screen flex justify-center items-center">
           <BallTriangle
             height={100}
             width={100}
@@ -32,7 +32,7 @@ const App = () => {
           />
         </div>
       ) : (
-        <div className="bg-black">
+        <div className="bg-black w-full">
           <Nav />
           <Banner />
           <Skill />
