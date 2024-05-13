@@ -16,18 +16,17 @@ const Banner = () => {
       <div className="h-full lg:py-56 flex flex-col justify-center lg:items-start items-center text-white">
         <h1
           data-aos="fade-right"
-          className="text-[24px] font-semibold mb-8 leading-normal font-serif "
+          className="text-2xl font-semibold mb-8 leading-normal font-serif "
         >
           Hello, it's Me <br />
-          <span className="text-[52px] uppercase  text-fuchsia-500 t_glow mt-2 tracking-widest cursor-pointer">
+          <span className="text-5xl uppercase  text-fuchsia-500 t_glow mt-2 tracking-widest cursor-pointer">
             Amit Dhadange{" "}
           </span>
           <br />
-          <h4 className="text-[22px] font-semibold mb-8 leading-normal font-serif  ">
-            And I'm a
-            <span className="text-fuchsia-500 tracking-widest text-[28px] uppercase">
-              {" "}
-              MERN STACK DEVELOPER
+          <h4 className="text-2xl font-semibold mb-8 leading-normal font-serif  ">
+            And I'm a 
+            <span className="text-fuchsia-500 tracking-widest text-3xl uppercase">
+               MERN STACK DEVELOPER
             </span>
           </h4>
         </h1>
@@ -81,9 +80,9 @@ const Banner = () => {
       <img
         data-aos="fade-up"
         src={file}
-        width={400}
-        height={300}
-        className="rounded-full border-2 p-1 border-fuchsia-500 img_glow"
+        // width={400}
+        // height={300}
+        className="rounded-full border-2 w-full h-[90vh] p-1 border-fuchsia-500 img_glow"
         alt="Profile"
       />
     </div>

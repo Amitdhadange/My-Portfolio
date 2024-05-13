@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import img1 from "../assets/Projects/img1.png";
 import img2 from "../assets/Projects/img2.png";
 import img3 from "../assets/Projects/img3.png";
 import img4 from "../assets/Projects/img4.png";
