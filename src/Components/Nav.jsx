@@ -55,7 +55,7 @@ const Nav = () => {
               </Link>
               <Link spy={true} smooth={true} to="Services">
                 <li className="hover:text-fuchsia-600 transition border-b-2 border-slate-900 hover:border-fuchsia-600 cursor-pointer">
-                  Skill
+                  Skills
                 </li>
               </Link>
               <Link spy={true} smooth={true} to="Projects">
