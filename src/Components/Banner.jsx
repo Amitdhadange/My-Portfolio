@@ -23,9 +23,9 @@ const Banner = () => {
             Amit Dhadange{" "}
           </span>
           <br />
-          <h4 className="text-xl font-semibold mb-8 leading-normal font-serif  ">
+          <h4 className="text-lg font-semibold mb-8 leading-normal font-serif  ">
             And I'm a 
-            <span className="text-fuchsia-500 tracking-widest text-2xl uppercase">
+            <span className="text-fuchsia-500 tracking-widest text-xl uppercase">
                MERN STACK DEVELOPER
             </span>
           </h4>
