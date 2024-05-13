@@ -18,7 +18,7 @@ const Banner = () => {
           data-aos="fade-right"
           className="text-xl font-semibold mt-12  leading-normal font-serif "
         >
-          Hello, it's Me <br />
+          Hello, It's Me <br />
           <span className="text-4xl uppercase text-fuchsia-500 t_glow tracking-widest cursor-pointer">
             Amit Dhadange{" "}
           </span>
@@ -31,7 +31,7 @@ const Banner = () => {
             </span>
           </h4>
         <p data-aos="fade-left" className="text-xl">
-          Hello! I'm a beginner MERN Stack developer building my portfolio
+          Hello! I'm a beginner MERN Stack Developer building my portfolio
           website. Excited to display projects and skills in MongoDB,
           Express.js, React.js, and Node.js. Let's connect and grow together !
         </p>
