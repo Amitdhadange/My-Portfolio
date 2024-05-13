@@ -27,7 +27,7 @@ const Services = () => {
         data-aos="fade-right"
         className="text-[52px] font-semibold mb-20 leading-normal uppercase text-fuchsia-800"
       >
-        Skiil
+        Skill
       </h1>
       <div className="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-around gap-20">
         <h2
