@@ -24,13 +24,13 @@ const About = () => {
         <p data-aos="fade-left" className="font-sans">
           As a Mern Stack Developer fresher, I'm adept at MongoDB, Express.js,
           React, and Node.js,
-          <br /> eager to delve into Full-Stack Web Development. Proficient in
+            eager to delve into Full-Stack Web Development. Proficient in
           JavaScript, I aim to build
-          <br /> dynamic, responsive web applications, mastering front-end
-          frameworks and back-end <br />
+             dynamic, responsive web applications, mastering front-end
+          frameworks and back-end 
           technologies. With a passion for learning and problem-solving, I'm
           committed to honing
-          <br /> my skills and contributing to innovative projects in the
+           my skills and contributing to innovative projects in the
           industry.
         </p>
         <div className="flex mt-4   sm:-ml-4">
