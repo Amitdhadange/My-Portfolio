@@ -11,9 +11,7 @@ const Footer = () => {
             Location
           </span>
           <p className="text-[16px] my-4 font-medium">Bhopal,Madhya pradesh</p>
-          <p className="font-extralight">
-            Copyright ©2024 All rights reserved
-          </p>
+          
         </div>
         
         
@@ -59,9 +57,14 @@ const Footer = () => {
           <p className="text-[16px] font-medium">
             Email:- Amitdhadange71@gmail.com
           </p>
-          <p className="text-[16px] font-medium">
+          <p className="text-[16px] font-medium ">
             Contact:- +91-8962224031 , 8788902366
           </p>
+          <div className=" mt-14 ml-12 lg:mt-12 lg:ml-48 absolute">
+      <p className="font-extralight">
+            Copyright ©2024 All rights reserved
+          </p>
+          </div>
         </div>
       </div>
     </footer>
