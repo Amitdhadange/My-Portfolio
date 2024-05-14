@@ -22,9 +22,9 @@ const About = () => {
           About me
         </h1>
         <p data-aos="fade-left" className="font-sans">
-          As a MERN stack developer fresher, I'm adept at MongoDB, Express.js,
+          As a MERN Stack Developer fresher, I'm adept at MongoDB, Express.js,
           React, and Node.js,
-          <br /> eager to delve into full-stack web development. Proficient in
+          <br /> eager to delve into Full-Stack Web Development. Proficient in
           JavaScript, I aim to build
           <br /> dynamic, responsive web applications, mastering front-end
           frameworks and back-end <br />

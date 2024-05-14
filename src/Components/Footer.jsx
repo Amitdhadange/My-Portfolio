@@ -6,18 +6,17 @@ const Footer = () => {
   return (
     <footer className="bg-slate-800 w-full text-white lg:px-48 px-4 py-20">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-4">
-        
-        <div className="mb-4 md:mb-0">
-          <h2 className="text-3xl font-semibold text-fuchsia-800 py-2 uppercase mb-2">
-            Contact
-          </h2>
-          <p className="text-[16px] font-medium">
-            Email:- Amitdhadange71@gmail.com
-          </p>
-          <p className="text-[16px] font-medium">
-            Contact:- +91-8962224031 , 8788902366
+            <div className="mb-4 md:mb-0">
+          <span className="text-3xl font-semibold text-fuchsia-800 py-2 uppercase mb-2">
+            Location
+          </span>
+          <p className="text-[16px] my-4 font-medium">Bhopal,Madhya pradesh</p>
+          <p className="font-extralight">
+            Copyright ©2024 All rights reserved
           </p>
         </div>
+        
+        
         <div>
           <h2 className="text-3xl font-semibold text-fuchsia-800 py-2 uppercase mb-2">
             Follow Me
@@ -53,13 +52,15 @@ const Footer = () => {
             </a>
           </div>
         </div>
-            <div className="mb-4 md:mb-0">
-          <span className="text-3xl font-semibold text-fuchsia-800 py-2 uppercase mb-2">
-            Location
-          </span>
-          <p className="text-[16px] my-4 font-medium">Bhopal,Madhya pradesh</p>
-          <p className="font-extralight">
-            Copyright ©2024 All rights reserved
+          <div className="mb-4 md:mb-0">
+          <h2 className="text-3xl font-semibold text-fuchsia-800 py-2 uppercase mb-2">
+            Contact
+          </h2>
+          <p className="text-[16px] font-medium">
+            Email:- Amitdhadange71@gmail.com
+          </p>
+          <p className="text-[16px] font-medium">
+            Contact:- +91-8962224031 , 8788902366
           </p>
         </div>
       </div>
