@@ -30,7 +30,7 @@ const Banner = () => {
               MERN STACK DEVELOPER
             </span>
           </h4>
-        <p data-aos="fade-left" className="text-xl font-serif">
+        <p data-aos="fade-left" className="text-base font-serif">
          I'm a beginner MERN Stack Developer building my portfolio
           website. Excited to display projects and skills in MongoDB,
           Express.js, React.js, and Node.js. Let's connect and grow together !
